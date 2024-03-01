@@ -10,7 +10,7 @@ or
 
 https://pypi.org/project/bewcore-yespower/#files
 
-python3.7 -m pip install bewcore-yespower
+python3.8 -m pip install bewcore-yespower
 
 How to compile at windows ?
 
