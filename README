@@ -10,7 +10,7 @@ or
 
 https://pypi.org/project/bewcore-yespower/#files
 
-python3.7 -m pip install bewcore-yespower
+python3.8 -m pip install bewcore-yespower
 
 How to compile at windows ?
 
@@ -18,7 +18,7 @@ Download Mingw64
 
 Example
 https://www.mingw-w64.org/downloads/
-we was use https://winlibs.com/
+we was use https://github.com/skeeto/w64devkit
 
 Open cmd
 
