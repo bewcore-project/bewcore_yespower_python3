@@ -1,8 +1,8 @@
 build:
-	python setup.py build
+	python3 setup.py build
 sudo-install:
-	sudo python setup.py install
+	sudo python3 setup.py install
 clean:
-	python setup.py clean
+	python3 setup.py clean
 sudo-clean:
-	sudo python setup.py clean
+	sudo python3 setup.py clean

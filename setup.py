@@ -10,7 +10,7 @@ bewcore_yespower_module = Extension('bewcore_yespower',
                             include_dirs=['.'])
 
 setup (name = 'bewcore_yespower',
-       version = '1.0.1',
+       version = '1.0.2',
        author_email = 'mraksoll4@gmail.com',
        author = 'mraksoll',
        url = 'https://github.com/bewcore-project/bewcore_yespower_python3',
